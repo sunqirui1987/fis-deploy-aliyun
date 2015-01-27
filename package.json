@@ -1,12 +1,15 @@
 {
   "name": "fis-deploy-aliyun",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "keywords": [
     "fis",
     "deploy",
     "plugin"
   ],
+   "dependencies": {
+    "aliyun-sdk": "1.2.1"
+  },
   "email": "sqr@detu.com",
   "author": "sqr",
   "license": "BSD"

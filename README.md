@@ -1,5 +1,8 @@
 # fis-deploy-aliyun
-fis-deploy-aliyun
+
+#
+	安装
+	npm install -g fis-deploy-aliyun
 
 #
 	fis.config.set('modules.deploy', 'aliyun');
